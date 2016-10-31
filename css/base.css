@@ -1,0 +1,27 @@
+.navbar-custom {
+    background-color:#196f19;
+    color:#ffffff;
+    border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#ffffff;
+}
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #ffffff;
+    background-color:transparent;
+}
+.navbar-custom .navbar-brand {
+    color:#eeeeee;
+}
+
+h1 {
+	font-family: Raleway;
+	font-weight:900;
+	text-shadow: 0px 0px 3px #000;
+}
+
+.containerImg {
+	max-width:100%;
+	display:block;
+}
